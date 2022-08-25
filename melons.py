@@ -20,6 +20,7 @@ class Melon:
         color,
         seedless,
     ):
+        # instance attributres
         self.melon_id = melon_id
         self.melon_type = melon_type
         self.common_name = common_name
